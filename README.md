@@ -26,7 +26,7 @@ project/
 Перейдите в файл config.py и введите токен своего бота:
 
 ```python
-your_token = "YOUR_TELEGRAM_BOT_TOKEN"
+your_token = "YOUR TOKEN HERE"
 ```
 
 ### Убедитесь, что у бота есть права на:
