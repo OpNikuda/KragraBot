@@ -13,6 +13,7 @@ pip install pyTelegramBotAPI
 
 ```bash
 project/
+├── src/  
 ├── bot.py               # Главный файл для запуска бота
 ├── call_back.py         # Обработчики callback-запросов
 ├── config.py            # Конфигурация (токен бота)
