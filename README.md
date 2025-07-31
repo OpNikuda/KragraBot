@@ -35,7 +35,7 @@ your_token = "YOUR TOKEN HERE"
 2. Отправку сообщений
 3. Отправку медиафайлов
 
-### Укажите правильный channel_id в файле start.py (строка channel_id = "@kragra")
+!Укажите правильный channel_id в файле start.py (строка channel_id = "@kragra")!
 
 ## Использование
 Запустите бота:
